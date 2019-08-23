@@ -24,7 +24,7 @@ baseurl: ''
 title: 'EndoCV'
 description: 'Building fundamental computer vision methods in Endoscopy'
 permalink: pretty
-logo: "https://github.com/sharibox/alembic-kit/tree/master/imgs/endoLogo.png"
+logo: "https://github.com/sharibox/alembic-kit/blob/master/imgs/endoLogo.png"
 
 # Pagination
 paginate: 5
