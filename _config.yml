@@ -24,7 +24,7 @@ baseurl: ''
 title: 'EndoCV'
 description: 'Building fundamental computer vision methods in Endoscopy'
 permalink: pretty
-logo: "imgs/endoLogo-1.png"
+logo: "https://drive.google.com/uc?id=1CiYIAx5hmn0ZgVRydlRX_0afBohIZUQp"
 
 # Pagination
 paginate: 5
