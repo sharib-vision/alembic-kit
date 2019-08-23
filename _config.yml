@@ -19,12 +19,16 @@ plugins:
 - jemoji
 
 # Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
 url: 'https://mydomain.com'
 baseurl: ''
 title: 'EndoCV'
 description: 'Building fundamental computer vision methods in Endoscopy'
 permalink: pretty
 logo: "https://drive.google.com/uc?id=1CiYIAx5hmn0ZgVRydlRX_0afBohIZUQp"
+email: "sharib.ali@eng.ox.ac.uk"
+css_inline: true
 
 # Pagination
 paginate: 5
@@ -57,7 +61,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Events
+    title: Posts
     output: true
     description: "International events in endoscopy"
     feature_text: |
