@@ -21,10 +21,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'EndoCV'
+description: 'Building fundamental computer vision methods in Endoscopy'
 permalink: pretty
-logo: "imgs/logo.png"
+logo: "imgs/endoLogo.png"
 
 # Pagination
 paginate: 5
