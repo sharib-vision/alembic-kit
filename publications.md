@@ -7,7 +7,7 @@ feature_text: |
 ---
 
 
-[1]  Ali, S., Zhou, F., Bailey, A., Braden, B., East, J., Lu, X., & Rittscher, J. (2019a). A deep learning framework for quality assessment and restoration in video endoscopy. arXiv, arXiv:1904.07073.
+[1]  Ali, S., Zhou, F., Bailey, A., Braden, B., East, J., Lu, X., & Rittscher, J. (2019a). A deep learning framework for quality assessment and restoration in video endoscopy. arXiv, [arXiv:1904.07073](https://arxiv.org/abs/1904.07073).
 
-[2]  Ali, S., Zhou, F., Daul, C., Braden, B., Bailey, A., Realdon, S., East, J., Wagnieres, G., Loschenov, V., Grisan, E., Blondel, W., & Rittscher, J. (2019b). Endoscopy artifact detection (EAD 2019) challenge dataset. arXiv, arXiv:1905.03209.
+[2]  Ali, S., Zhou, F., Daul, C., Braden, B., Bailey, A., Realdon, S., East, J., Wagnieres, G., Loschenov, V., Grisan, E., Blondel, W., & Rittscher, J. (2019b). Endoscopy artifact detection (EAD 2019) challenge dataset. arXiv, [arXiv:1905.03209](https://arxiv.org/abs/1905.03209).
 
