@@ -13,8 +13,6 @@ Sharib Ali, Department of Engineering Science, Big Data Institute, University of
 Felix Zhou, Ludwig Cancer Institute, University of Oxford, UK
 
 
-
-
 ### Program Committee (EAD2019)
 
 Jens Rittscher, Department of Engineering Science,  Big Data Institute, University of Oxford, UK
