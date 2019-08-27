@@ -1,3 +1,10 @@
+---
+title: Event Collaborators
+layout: page
+feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: |
+  ## Computer Vision in Endoscopy (EndoCV)
+---
 
 ### Organizing Committee (EAD2019)
 
