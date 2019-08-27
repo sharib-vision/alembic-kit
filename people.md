@@ -6,14 +6,14 @@ feature_text: |
   ## Computer Vision in Endoscopy (EndoCV)
 ---
 
-### Organizing Committee (EAD2019)
+##### Organizing Committee (EAD2019)
 
   - Sharib Ali, Department of Engineering Science, Big Data Institute, University of Oxford, UK (Lead)
 
   - Felix Zhou, Ludwig Cancer Institute, University of Oxford, UK
 
 
-### Program Committee (EAD2019)
+##### Program Committee (EAD2019)
 
   - Jens Rittscher, Department of Engineering Science,  Big Data Institute, University of Oxford, UK
 
@@ -31,7 +31,7 @@ feature_text: |
 
 
 
-### Clinical collaborators
+##### Clinical collaborators
 
   - James East, Translational Gastroenterology Unit, John Radcliffe Hospital, Oxford, UK
 
