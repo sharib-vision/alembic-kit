@@ -40,4 +40,10 @@ feature_text: |
   - Adam Bailey, Translational Gastroenterology Unit, John Radcliffe Hospital, Oxford, UK
 
   - Stefano Realdon, Istituto Oncologico Veneto, IOV-IRCCS, Padova, Italy
+  
+  
+***Notes:** *1) Please note that that committee for each challenge can be different. We encourage diverse participations*
+
+*2) If you have a team who want to launch an endoscopy challenge through our intiative, please do let us know.*
+  
 
