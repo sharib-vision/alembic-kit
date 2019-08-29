@@ -1,8 +1,17 @@
 ---
 layout: page
-title: EndoCV
+title: Upcoming events
 ---
 
-```
-About: This is an initiative to promote foundational research required for establishing translational research in Endoscopy.
-```
+
+#### Big data challenge competitions as a platform towards transparent and reproducible scientific research 
+- Where: Big Data Institute, Oxford
+- When: TBD
+
+
+#### Multi-class artefact detecition challenge (EAD2020)
+- Where: TBD
+- When: TBD
+
+
+
