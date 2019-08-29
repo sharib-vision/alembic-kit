@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery 
-feature_image: "https://drive.google.com/uc?id=1dMkRVxSXXixD55dmzqV0nELMwMizx38i"
+feature_image: "https://drive.google.com/uc?id=1V51euetjzt4NabFS_sRuw__8l2RnvefY"
 feature_text: |
 ---
 
