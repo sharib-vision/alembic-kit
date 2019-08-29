@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Upcoming events
+feature_image: "https://drive.google.com/uc?id=1dMkRVxSXXixD55dmzqV0nELMwMizx38i"
+feature_text: |
 ---
 
 
