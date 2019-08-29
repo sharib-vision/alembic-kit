@@ -50,10 +50,10 @@ navigation_header:
   url: /people/
 - title: Support
   url: /support/
-- title: News
-  url: /news/
-- title: Categories
-  url: /categories/
+#- title: News
+#  url: /news/
+#- title: Categories
+#  url: /categories/
 
 # Footer nav
 navigation_footer:
