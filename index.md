@@ -1,12 +1,10 @@
 ---
-title: 
+title: Welcome to Endo-CV
 layout: page
 feature_image: "https://drive.google.com/uc?id=1dMkRVxSXXixD55dmzqV0nELMwMizx38i"
 feature_text: |
 
 ---
-### <font color='blue'>Welcome to Endo-CV</font>
-#### Preface
 Endoscopy is a widely used clinical procedure for the early detection of numerous cancers (e.g., nasopharyngeal, oesophageal adenocarcinoma, gastric, colorectal cancers, bladder cancer etc.), therapeutic procedures and minimally invasive surgery (e.g., laparoscopy). During this procedure an endoscope is used; a long, thin, rigid or flexible tube having a light source and a camera at the tip which allows to visualize inside of affected organs on a screen. However working with clinical endoscopy data is immensely difficult which comes from frame quality degradation due to various artefacts-to-organ deformation-to-non-planar organ geometries. **This is an initiative to promote foundational research in Endoscopy targeted towards a clinical translation.** The programme has a long term vision and we invite interested people to join us. We invite both clinical and computational scientists within this network.
 
 We have designed below themes (but not limited) which we think are important for dealing highly complex endoscopy data in clinics. This is a long-term vision and we have sucessfully achieved (to some extend) identified, defined and addressed frame quality in endoscopy (**Theme 1**). We will be more than happy to have people with knowledge in this domain to contribute and work together with us for realising this systematic plan. Each theme is briefly discussed below with the links to the accomplished challenges as well.
