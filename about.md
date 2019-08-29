@@ -11,7 +11,7 @@ Endoscopy is a widely used clinical procedure for the early detection of numerou
 ### Initiators and creators
 - [Dr. Sharib Ali (Lead)](sharib.ali@eng.ox.ac.uk)
 
-- Dr. Felix Zhou (Co-lead)
+- [Dr. Felix Zhou (Co-lead)](felixzhou1@googlemail.com)
 
 
 
