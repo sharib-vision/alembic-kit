@@ -8,5 +8,5 @@ feature_text: |
 
 **EAD2019 was supported by** [CR UK](https://www.cancerresearchuk.org) and [MedIAN network](https://www.median.ac.uk)
 
-**EAD2020** we are looking for sponsors. Each sponsor will be listed in our challenge webpage, endo-CV main homepage and all related publications.
+**EAD2020** <span style="color:blue"> *we are looking for sponsors.* text</span> Each sponsor will be listed in our challenge webpage, endo-CV main homepage and all related publications.
 
