@@ -42,8 +42,10 @@ feature_text: |
   - Stefano Realdon, Istituto Oncologico Veneto, IOV-IRCCS, Padova, Italy
   
   
-***Notes:** *1) Please note that that committee for each challenge can be different. We encourage diverse participations*
+**Notes:** 
 
-*2) If you have a team who has a well documented curated data and want to launch an endoscopy challenge through our intiative, please do let us know. We will be more than happy to help!😊*
+*1) Please note that that committee for each challenge can be different. We encourage diverse participations
+
+*2) If you have a well documented curated data and you want to launch an endoscopy challenge through our intiative, please do let us know. We will be more than happy to help!*😊
   
 
