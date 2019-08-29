@@ -5,7 +5,7 @@ feature_image: "https://drive.google.com/uc?id=1QGkjCF6g1_LiYnbweY73Hzw0RyAKlFVj
 feature_text: |
    
 ---
-#### EndoCV Publications and Proceedings
+#### <font color='blue'>EndoCV Publications and Proceedings</font> 
 
 [1]  Ali, S., Zhou, F., Bailey, A., Braden, B., East, J., Lu, X., & Rittscher, J. (2019a). A deep learning framework for quality assessment and restoration in video endoscopy. arXiv, [arXiv:1904.07073](https://arxiv.org/abs/1904.07073).
 
