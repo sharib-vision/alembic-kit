@@ -1,7 +1,7 @@
 ---
 title: Welcome to EndoCV Challenges
 layout: page
-feature_image: "https://drive.google.com/uc?id=1h6Ju_Xqxu969tnaKHSKrGKT2wglWwcbF"
+feature_image: "https://drive.google.com/uc?id=1_LsTWHe2DBXqUBo48RBdLzsmrzagIKnE"
 feature_text: |
   ## Computer Vision in Endoscopy (EndoCV)
 ---
