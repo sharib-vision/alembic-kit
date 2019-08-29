@@ -1,5 +1,5 @@
 ---
-title: Publications 
+title: |
 layout: page
 feature_image: "https://drive.google.com/uc?id=1QGkjCF6g1_LiYnbweY73Hzw0RyAKlFVj"
 feature_text: |
