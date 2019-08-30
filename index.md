@@ -24,6 +24,9 @@ Currently we have designed four themes; <em>artefact detection</em>, <em>frame r
 
 ![Theme_1_Picture](http://drive.google.com/uc?id=1yC3LAW-TJJAVXw5Ure7J4pzYr5sy_TEE)
 
+Clinically acquired endoscopy videos exhibit inevitable frame corruption by imaging artefacts. Artefacts, such as motion blur, pixel saturation, specular reflections, bubbles, excess blood and debris, detrimentally obscure the underlying musical surface. As much as 50-80% of frames can be contaminated. We have found this can severely compromise the impact of subsequent quantitative analyses to improve clinical outcomes, such as video mosaicking for an extended field-of-view, 3D reconstruction for aiding surgical planning, and key video-frame retrieval for reporting and follow-up. 
+
+In order to comprehensively address the artefact detection problem which can be of multiple types and affect all imaging modalities, a comprehensive dataset of artifacts was assembled and the first Endoscopy Artefact Detection (EAD) challenge was organised. Nearly 200 endoscopy videos from 5 organs and 3 imaging modalities were collected from 6 international hospitals. A total of 3000 video frames were annotated by experts (under a pre-defined protocol) of which 2682 frames were released publicly and the remainder used for online method evaluation. 
 
 ###### Data Challenges
 - [EAD2019@IEEE ISBI](https://ead2019.grand-challenge.org)
