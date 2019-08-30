@@ -7,10 +7,10 @@ feature_text: |
 ---
 <div style="text-align: justify"> 
 <p>
+ 
+ <em><strong>"We are a crowd-sourcing initiative that aim to promote breakthrough methods research targeted towards effective clinical translation by identifying key research 'themes' of need"</strong></em>
+ 
 Endoscopy is a widely used clinical procedure for the early detection of numerous cancers (e.g., nasopharyngeal, oesophageal adenocarcinoma, gastric, colorectal cancers, bladder cancer etc.), therapeutic procedures and minimally invasive surgery (e.g., laparoscopy). During this procedure an endoscope is used; a long, thin, rigid or flexible tube with a light source and camera at the tip to visualize the inside of affected organs on an external screen. Quantitative clinical endoscopy analysis is immensely challenging due to inevitable video frame quality degradation from various imaging artefacts to the non-planar geometries and deformations of organs.
-</p>
-<p>
-<strong>Endo-CV is a crowd-sourcing initiative to promote foundational quantitative research in Endoscopy targeted towards promoting clinical translations through addressing key 'themes' of research.</strong>
 </p>
 <p>
  The core idea is that the initiators and each theme committee hold the research rights under the framework. We invite all interested people to join us and help us build a first comprehensive consortium that  promotes reproducible method development and facilitate clinical translation of  endoscopy. We invite both clinical and computational scientists to this network. The programme has a long term vision and is independant of institution.
