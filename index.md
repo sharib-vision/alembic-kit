@@ -7,9 +7,9 @@ feature_text: |
 ---
 <div style="text-align: justify"> 
 <p>
- 
- <em><strong>"We are a crowd-sourcing initiative that aim to promote breakthrough methods research targeted towards effective clinical translation by identifying key research 'themes' of need"</strong></em>
- 
+<em><strong>"We are a crowd-sourcing initiative that aim to promote breakthrough methods research targeted towards effective clinical translation by identifying key research 'themes' of need"</strong></em>
+ </p>
+<p>
 Endoscopy is a widely used clinical procedure for the early detection of numerous cancers (e.g., nasopharyngeal, oesophageal adenocarcinoma, gastric, colorectal cancers, bladder cancer etc.), therapeutic procedures and minimally invasive surgery (e.g., laparoscopy). During this procedure an endoscope is used; a long, thin, rigid or flexible tube with a light source and camera at the tip to visualize the inside of affected organs on an external screen. Quantitative clinical endoscopy analysis is immensely challenging due to inevitable video frame quality degradation from various imaging artefacts to the non-planar geometries and deformations of organs.
 </p>
 <p>
