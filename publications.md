@@ -5,7 +5,11 @@ feature_image: "https://drive.google.com/uc?id=1V51euetjzt4NabFS_sRuw__8l2RnvefY
 feature_text: |
    
 ---
-#### <font color='blue'>EndoCV Publications and Proceedings</font> 
+### <font color='blue'>Endo-CV Publications and Proceedings</font> 
+
+
+#### Theme 1: Endoscopy Artefact Detection (EAD)
+
 
 [1]  Ali, S., Zhou, F., Bailey, A., Braden, B., East, J., Lu, X., & Rittscher, J. (2019a). A deep learning framework for quality assessment and restoration in video endoscopy. arXiv, [arXiv:1904.07073](https://arxiv.org/abs/1904.07073).
 
