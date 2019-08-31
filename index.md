@@ -36,6 +36,7 @@ Clinically acquired endoscopy videos exhibit inevitable frame corruption by imag
 In order to comprehensively address the artefact detection problem which can be of multiple types and affect all imaging modalities, a comprehensive dataset of artifacts was assembled and the first Endoscopy Artefact Detection (EAD) challenge was organised. Nearly 200 endoscopy videos from 5 organs and 3 imaging modalities were collected from 6 international hospitals. A total of 3000 video frames were annotated by experts (under a pre-defined protocol) of which 2682 frames were released publicly and the remainder used for online method evaluation. 
 </p>
 </div>
+
 ###### Data Challenges
 - [EAD2019@IEEE ISBI](https://ead2019.grand-challenge.org)
 - [EAD2020@IEEE ISBI](https://ead2020.grand-challenge.org) (planned)
