@@ -18,20 +18,24 @@ With Endo-CV we invite all interested people to join us and build a first compre
 </div>
 
 ##### Research Themes:
-
+<div style="text-align: justify"> 
+<p>
 Currently we have designed four themes; <em>artefact detection</em>, <em>frame restoration</em>, <em>disease detection</em> and <em>3D reconstruction</em> which we believe are essential for successful analysis of complex endoscopy videos in the clinic. By no means is this a restrictive list! We encourage all with knowledge in this domain to contribute and work together with us to create a systematic plan to translation. Detailed information regarding the efforts can be found through the relevant links. As mentioned, this is intended to be a long-term vision. Currently we are addressing the themes through organisation of data challenges. To this end, we sucessfully identified, defined and tackled frame quality in endoscopy through artefact detection (<strong>Theme 1</strong>)
-
+</p>
+</div>
  
 ##### Theme 1: Endoscopy Artefact Detection (EAD)
 
 ![Theme_1_Picture](http://drive.google.com/uc?id=1yC3LAW-TJJAVXw5Ure7J4pzYr5sy_TEE)
 
+<div style="text-align: justify"> 
+<p>
 Clinically acquired endoscopy videos exhibit inevitable frame corruption by imaging artefacts. Artefacts, such as motion blur, pixel saturation, specular reflections, bubbles, excess blood and debris, detrimentally obscure the underlying musical surface. As much as 50-80% of frames can be contaminated. We have found this can severely compromise the impact of subsequent quantitative analyses to improve clinical outcomes, such as video mosaicking for an extended field-of-view, 3D reconstruction for aiding surgical planning, and key video-frame retrieval for reporting and follow-up. 
-
- 
+</p>
+<p> 
 In order to comprehensively address the artefact detection problem which can be of multiple types and affect all imaging modalities, a comprehensive dataset of artifacts was assembled and the first Endoscopy Artefact Detection (EAD) challenge was organised. Nearly 200 endoscopy videos from 5 organs and 3 imaging modalities were collected from 6 international hospitals. A total of 3000 video frames were annotated by experts (under a pre-defined protocol) of which 2682 frames were released publicly and the remainder used for online method evaluation. 
-
-
+</p>
+</div>
 ###### Data Challenges
 - [EAD2019@IEEE ISBI](https://ead2019.grand-challenge.org)
 - [EAD2020@IEEE ISBI](https://ead2020.grand-challenge.org) (planned)
