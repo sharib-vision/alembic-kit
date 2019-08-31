@@ -19,10 +19,8 @@ With Endo-CV we invite all interested people to join us and build a first compre
 
 ##### Research Themes:
 
-<div style="text-align: justify"> 
-<p>
 Currently we have designed four themes; <em>artefact detection</em>, <em>frame restoration</em>, <em>disease detection</em> and <em>3D reconstruction</em> which we believe are essential for successful analysis of complex endoscopy videos in the clinic. By no means is this a restrictive list! We encourage all with knowledge in this domain to contribute and work together with us to create a systematic plan to translation. Detailed information regarding the efforts can be found through the relevant links. As mentioned, this is intended to be a long-term vision. Currently we are addressing the themes through organisation of data challenges. To this end, we sucessfully identified, defined and tackled frame quality in endoscopy through artefact detection (<strong>Theme 1</strong>)
- </p>
+
  
 ##### Theme 1: Endoscopy Artefact Detection (EAD)
 
