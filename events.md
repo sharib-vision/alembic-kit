@@ -6,12 +6,12 @@ feature_text: |
 ---
 
 
-📌 **Big data challenge competitions as a platform towards transparent and reproducible scientific research**
+=> **Big data challenge competitions as a platform towards transparent and reproducible scientific research**
 - Where: Big Data Institute, Oxford
 - When: 30th January 2020
 
 
-📌 **Endoscopy vision challenge 2020**
+=> **Endoscopy vision challenge 2020**
 
  `Theme1: Multi-class artefact detecition challenge (EAD2020)`
  
