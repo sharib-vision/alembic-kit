@@ -39,13 +39,14 @@ In order to comprehensively address the artefact detection problem which can be 
 
 ###### Data Challenges
 - [EAD2019@IEEE ISBI](https://ead2019.grand-challenge.org)
-- [EAD2020@IEEE ISBI](https://ead2020.grand-challenge.org) (planned)
+- [EAD2020@IEEE ISBI](https://ead2020.grand-challenge.org) (Accepted at IEEE ISBI 2020 under our main challenge EndoCV)
 
 ###### Datasets
 - [EAD2019 Artefact Detection Dataset](https://data.mendeley.com/datasets/c7fjbxcgj9/2)
 
 ##### Theme 2: Endoscopy Disease Detection (EDD)
-TO BE DECLARED!
+*Accepted at IEEE ISBI 2020 under our main challenge EndoCV*
+More info to come soon!
 
 ##### Theme 3: Endoscopy Frame Restoration (EFR) 
  TO BE DECLARED!
